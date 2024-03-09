@@ -1,6 +1,6 @@
 Feature: I should be able to login using valid credentials
 
-  Scenario: I enter valid credentials
+  Scenario: User should be able to login with valid credentials
     Given I am on the login page
     When I enter valid username
     And valid password
